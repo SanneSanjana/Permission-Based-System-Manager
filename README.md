@@ -67,7 +67,8 @@ Server will start at:
 
 ## Roles & Permissions
 
-Role	View	Edit	Delete
-Viewer	✅	   ❌	❌
-Editor	✅	   ✅	❌
-Admin	✅	   ✅	✅
+| Role   | View | Edit | Delete |
+|--------|------|------|--------|
+| Viewer | ✅   | ❌   | ❌     |
+| Editor | ✅   | ✅   | ❌     |
+| Admin  | ✅   | ✅   | ✅     |
